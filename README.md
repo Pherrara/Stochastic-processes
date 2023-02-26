@@ -1,0 +1,1 @@
+These are some of my works I did for the course of Stochastic processes inside the course of Computational Physics Laboratory AA 2021/2022 at università degli studi di palermo, under prof. Salvatore Micciché and prof. Grazia Cottone.
